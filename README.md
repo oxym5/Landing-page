@@ -1,0 +1,1 @@
+This project is a simple landing page, that i used as a way to practice css flexbox, and during this process I learned how to center a div, how to change the border radius and how to fully take advantage of flexbox. during this project i was challenged a lot and had so look some stuff up on google.
